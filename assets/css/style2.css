@@ -1,0 +1,41 @@
+body {
+    background-image: url(../Basic-Portfolio/assets/Images/papyrus.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav-right {
+    float: right;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    
+}
+
+#header {
+    background-color: teal;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    width: 180px;
+    float: left;
+}
+
+
+
