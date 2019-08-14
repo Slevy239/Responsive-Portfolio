@@ -228,6 +228,7 @@ body {
         height: 60px;
         line-height: 50px;
         font-size: 30px;
+        text-align: center;
     }
     nav {
         width: 100%;
