@@ -220,7 +220,7 @@ body {
 
 @media screen and (min-width: 0px) and (max-width: 640px) {
     #masthead {
-        left: -8px;
+        left: 8px;
         top: 0px;
     }
     #logo {
